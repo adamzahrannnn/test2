@@ -1,0 +1,45 @@
+/* navigasi */
+.navbar-brand{
+    font-size: 35px;
+}
+.nav-link {
+    margin-right: 20px;
+}
+.nav-link,.navbar-brand{
+    color: white !important;
+    font-weight: bold !important; 
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+    
+
+}
+
+.container-21{
+    background-image: url(test3.jpg);
+    height: 600px;
+    background-size: cover;
+    padding-top: 20px;
+    color: white;
+}
+.container-21 a {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.btn {
+    width: auto;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+}
+/* footer */
+.container-a {
+    background-color: rgb(44, 41, 41);
+    height: 50px;
+    margin-top: -35px;
+    line-height: 50px;
+}
+.container-a p {
+    color: white;
+}
